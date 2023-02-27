@@ -1,0 +1,22 @@
+
+.Flex{
+    display: flex;
+}
+
+
+
+
+
+
+.justify-content{
+    justify-content:space-between;
+}
+
+
+
+
+
+
+.align-item{
+    align-items: center;
+}

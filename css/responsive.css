@@ -1,0 +1,76 @@
+
+
+
+
+@media(max-width:1000px){
+    #section-card{
+        flex-wrap:wrap;
+        justify-content: center;
+    }
+    header{
+        background: #070707;;
+    }
+    .card{
+        margin-top: 3rem;
+    }
+        #counter{
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+    
+          
+        #commercial{
+            flex-wrap:wrap;
+            justify-content: center;
+            
+
+        }
+        .client{
+            margin-top: 3rem;
+        }
+        .brande{
+            margin-top: 4rem;
+        }
+        .container{
+            flex-wrap:wrap;
+            justify-content: center;
+            
+
+        }
+        .testimonials{
+            margin-top: 3rem;
+        }
+        .test-center{
+            margin-top: 2rem;
+        }
+        .Flex{
+            flex-wrap:wrap;
+            justify-content: center;
+
+        }
+        #why-where{
+            width: 500px;
+            flex-wrap:wrap;
+            justify-content: center;
+        }
+        nav{
+            width: 100%;
+        }
+        #counter{
+            flex-direction: column;
+        }
+        #card-wraper{
+            height: 90vh;
+            flex-wrap:wrap;
+            justify-content: center;
+            background: tomato;
+
+        }
+        #provide-wraper{
+            flex-wrap:wrap;
+
+        }
+        
+        
+        
+}
